@@ -1,0 +1,26 @@
+Form{
+    display: flex;
+   justify-content: center;
+   gap:100px;
+}
+
+Form .kolom1  .formLabel{
+    color: grey;
+}
+
+Form .kolom2  .formLabel{
+    color: grey;
+}
+
+Form .kolom1  .formControl{
+    background-color: #80808047;
+    outline: none;
+    margin-bottom: 5px;
+}
+
+Form .kolom2  .formControl{
+    background-color: #80808047;
+    outline: none;
+    margin-bottom: 5px;
+
+}

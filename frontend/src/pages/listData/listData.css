@@ -1,0 +1,23 @@
+.findAndAdd{
+    display: flex;
+    justify-content: space-between;
+}
+
+.find{
+    margin-left: 5px;
+    border-radius: 5px;
+    border: 1px solid grey;
+    padding: 5px;
+    width: 600px;
+}
+.paginate{
+    display: flex;
+    justify-content: space-between;
+}
+.paginate p{
+    height: max-content;
+    align-self: center;
+}
+.paginate .pagination{
+    box-sizing: border-box;
+}
